@@ -467,4 +467,4 @@ def baz(a: bool, b: str) -> str:
 ```
 
 ## Credit
-Credit goes to a lot of websites, whose names I've unfortunately forgotten along the way. Credit to everyone!
+Credit goes to a lot of websites, whose names I've unfortunately forgotten along the way. Credit to everyone (especially Matt Mahowald for finding my typo(s))!
